@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = '<h1>🚀 SigmaBar Web Funcionando!</h1>';
